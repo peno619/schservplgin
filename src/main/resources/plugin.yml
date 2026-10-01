@@ -1,0 +1,6 @@
+name: schoolservernonetheritenospearnomace
+version: 1.0.0
+main: com.school.security.ItemRestrictionPlugin
+api-version: '1.21'
+description: Blocks real netherite gear, maces, and spears on the school server.
+author: school_server
